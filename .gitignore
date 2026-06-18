@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Système
+.DS_Store
+Thumbs.db
+
+# On conserve volontairement data/ (cache des données réelles) et figures/.
